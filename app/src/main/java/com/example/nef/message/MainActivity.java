@@ -35,6 +35,6 @@ public class MainActivity extends AppCompatActivity {
         MessageAdapter adapter  = new MessageAdapter(getSupportFragmentManager(),list);
         viewPager.setAdapter(adapter);
         psts.setViewPager(viewPager);
-
+//jgsdkfsjkljflaksjdflajsdlfjasldjfklasdjflasd
     }
 }
